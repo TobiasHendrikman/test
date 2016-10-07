@@ -7,3 +7,6 @@ C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mande
 C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.exe
 C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.pdb
 C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot_Set.scherm.resources
+C:\Users\KevinJayJunior\Source\Repos\test\Mandelbrot Set\Mandelbrot Set\bin\Debug\Mandelbrot Set.exe.config
+C:\Users\KevinJayJunior\Source\Repos\test\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.exe
+C:\Users\KevinJayJunior\Source\Repos\test\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.pdb

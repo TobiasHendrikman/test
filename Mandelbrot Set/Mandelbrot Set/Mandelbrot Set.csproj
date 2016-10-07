@@ -46,9 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassOpties.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Draw.cs" />
     <Compile Include="MandleBrot.cs">
       <SubType>Component</SubType>
