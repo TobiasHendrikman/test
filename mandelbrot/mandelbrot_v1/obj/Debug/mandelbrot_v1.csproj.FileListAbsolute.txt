@@ -10,3 +10,6 @@ C:\Users\toby.TOGASA\Google Drive\uni\informatica\Imperatief programmeren\practi
 C:\Users\toby.TOGASA\Google Drive\uni\informatica\Imperatief programmeren\practica\mandelbrot\mandelbrot\mandelbrot_v1\obj\Debug\mandelbrot_v1.csprojResolveAssemblyReference.cache
 C:\Users\toby.TOGASA\Google Drive\uni\informatica\Imperatief programmeren\practica\mandelbrot\mandelbrot\mandelbrot_v1\bin\Debug\mandelbrot_v1.exe
 C:\Users\toby.TOGASA\Google Drive\uni\informatica\Imperatief programmeren\practica\mandelbrot\mandelbrot\mandelbrot_v1\bin\Debug\mandelbrot_v1.pdb
+D:\github\mandelbrot\mandelbrot_v1\bin\Debug\mandelbrot_v1.exe.config
+D:\github\mandelbrot\mandelbrot_v1\obj\Debug\mandelbrot_v1.exe
+D:\github\mandelbrot\mandelbrot_v1\obj\Debug\mandelbrot_v1.pdb
