@@ -1,0 +1,9 @@
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\bin\Debug\Mandelbrot Set.exe.config
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\bin\Debug\Mandelbrot Set.exe
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\bin\Debug\Mandelbrot Set.pdb
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.csprojResolveAssemblyReference.cache
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.csproj.GenerateResource.Cache
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.exe
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot Set.pdb
+C:\Users\KevinJayJunior\OneDrive\Documents\General\Imperatief Programmeren\Mandelbrot Set\Mandelbrot Set\obj\Debug\Mandelbrot_Set.scherm.resources
